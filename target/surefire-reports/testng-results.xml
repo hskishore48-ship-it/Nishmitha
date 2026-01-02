@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-02T15:19:45 IST" name="Surefire suite" finished-at="2026-01-02T15:19:45 IST" duration-ms="60">
+    <groups>
+    </groups>
+    <test started-at="2026-01-02T15:19:45 IST" name="Surefire test" finished-at="2026-01-02T15:19:45 IST" duration-ms="60">
+      <class name="mavenPractice.MavenPracticeTest">
+        <test-method signature="mavenPracticeTest()[pri:0, instance:mavenPractice.MavenPracticeTest@1f3f4916]" started-at="2026-01-02T15:19:45 IST" name="mavenPracticeTest" finished-at="2026-01-02T15:19:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenPracticeTest -->
+      </class> <!-- mavenPractice.MavenPracticeTest -->
+      <class name="githubPractice.GitHubPracticeTest">
+        <test-method signature="gitHubPRactice()[pri:0, instance:githubPractice.GitHubPracticeTest@778d1062]" started-at="2026-01-02T15:19:45 IST" name="gitHubPRactice" finished-at="2026-01-02T15:19:45 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gitHubPRactice -->
+      </class> <!-- githubPractice.GitHubPracticeTest -->
+      <class name="jankinesPractice.JankinesPracticeTest">
+        <test-method signature="jankinesPracticeTest()[pri:0, instance:jankinesPractice.JankinesPracticeTest@1ed1993a]" started-at="2026-01-02T15:19:45 IST" name="jankinesPracticeTest" finished-at="2026-01-02T15:19:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jankinesPracticeTest -->
+      </class> <!-- jankinesPractice.JankinesPracticeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
